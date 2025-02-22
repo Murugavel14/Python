@@ -4,6 +4,8 @@
 - In simplified Version.
 
 # SEND "HELLO WORLD" TO THINKSPEAK
+- First you install library.
+  
 ```
 pip install requests
 ```
