@@ -3,7 +3,7 @@
 - In this repository i posted my project work.
 - In simplified Version.
 
-1. # SEND "HELLO WORLD" TO THINKSPEAK
+ # 1. SEND "HELLO WORLD" TO THINKSPEAK
 - First you install library.
   
 ```
