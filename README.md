@@ -3,9 +3,8 @@
 - In this repository i posted my project work.
 - In simplified Version.
 
-#SEND "HELLO WORLD" TO THINKSPEAK
-
----
+# SEND "HELLO WORLD" TO THINKSPEAK
+```
 pip install requests
----
+```
 
