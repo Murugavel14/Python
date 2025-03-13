@@ -1,4 +1,3 @@
-```python
 import requests
 import time  # For delay
 
@@ -16,4 +15,3 @@ response = requests.get(THINGSPEAK_CHANNEL_URL, params=payload)
     else:
         print(f"Failed to send {i} to ThinkSpeak. Status Code: {response.status_code}, Response: {response.text}")
 time.sleep(15)  # ThinkSpeak requires at least 15 seconds between updates
-```
