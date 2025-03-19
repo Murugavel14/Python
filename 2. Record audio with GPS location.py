@@ -50,7 +50,7 @@ if __name__ == "__main__":
         lat = latitude                          #save latitude in variable
         lon = longitude                         # also longitude
         print(f"Address: {address}")            # Optional
-        gmap1 = gmplot.GoogleMapPlotter(lat,lon,13 )  #in 13 is view country view ,,if you need street view replay 13 into 16
+        gmap1 = gmplot.GoogleMapPlotter(lat,lon,13 )  #in 13 is view country view ,,if you need street view replace 13 into 16
         gmap1.draw( "c:\\User\\auloca.html" )     # Pass the absolute path
 
     else:
