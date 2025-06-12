@@ -17,3 +17,14 @@ pip install numpy
 pip install geopy
 pip install gmplot
 ```
+# [ScreenDocx](https://github.com/Murugavel14/Python/blob/main/ScreenDocx/ScreenDocx.py)
+
+```
+pip install customtkinter
+pip install pyautogui
+pip install Pillow
+pip install ython-docx
+pip install pygame
+```
+- ScreenDocx Gif
+  ![Screendocx](https://github.com/Murugavel14/Python/blob/main/ScreenDocx/ScreenDocx.gif)
