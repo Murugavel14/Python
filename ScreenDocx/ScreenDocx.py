@@ -163,3 +163,5 @@ ToolTip(btn_ss, "Take Screenshot")
 ToolTip(btn_save, "Save to DOCX")
 
 app.mainloop()
+
+#Code by Murugavel
